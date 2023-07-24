@@ -7,10 +7,10 @@ This is a fully functional GPT assistant chrome extension that operates using th
 ## Features
 
 This application takes an OpenAI API key and allows users to easily paste code from their browser to do 1 of 4 functionalities:
-Response to emails.
-Summarize long texts.
-Answer questions.
-Professionalize wording.
+1) Respond to emails.
+2) Summarize long texts.
+3) Answer questions.
+4) Professionalize wording.
 
 ![Untitled design (3)](https://github.com/gastrader/GPTextension/assets/37260212/16cbfaf8-9a26-4517-ab98-bdcd35e677c5)
 
