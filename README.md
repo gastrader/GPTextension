@@ -1,6 +1,6 @@
 <img src="src/assets/img/icon-128.png" width="64"/>
 
-#GPTassistant
+# GPTassistant
 
 This is a fully functional GPT assistant chrome extension that operates using the latest Manifest v3.
 
