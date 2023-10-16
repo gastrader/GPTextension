@@ -6,15 +6,15 @@ This is a fully functional GPT assistant chrome extension that operates using th
 
 ## Features
 
-This application takes an OpenAI API key and allows users to easily paste code from their browser to do 1 of 4 functionalities:
+This application  leverages the OpenAI API to streamline common tasks for users. The application offers four key functionalities:
 1) Respond to emails.
-2) Summarize long texts.
-3) Answer questions.
-4) Professionalize wording.
+2) Summarize long text/articles.
+3) Answer general questions.
+4) Transform your sentences into professional language.
 
 ![Untitled design (3)](https://github.com/gastrader/GPTextension/assets/37260212/16cbfaf8-9a26-4517-ab98-bdcd35e677c5)
 
-This allows users to quickly utilize the GPT functionality during standard every day operations. Whether they need to quickly summarize an article or help them write a more professional message to their manager, this chrome extension can help.
+This allows users to quickly utilize the GPT functionality during standard every day operations. Whether they need to quickly summarize an article or help them write a more professional message to their manager, this chrome extension seamlesslu integrates into their workflows.
 
 
 
@@ -33,14 +33,5 @@ This allows users to quickly utilize the GPT functionality during standard every
    2. Check `Developer mode`
    3. Click on `Load unpacked extension`
    4. Select the `build` folder.
-8. Happy hacking.
-
-## Structure
-
-All your extension's code must be placed in the `src` folder.
 
 
-
----
-
-Michael Xieyang Liu | [Website](https://lxieyang.github.io)
